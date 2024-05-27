@@ -1,16 +1,7 @@
-# ffmpeg_image_slideshow
+# Output
 
-A new Flutter project.
+![image](https://github.com/chaitanyaamle/ffmpeg_image_slideshow/assets/30501921/1fed6072-89b0-4da6-8bf2-e10095ff5159)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/chaitanyaamle/ffmpeg_image_slideshow/assets/30501921/72275cdd-4146-4787-873f-28f94dd3c1c7
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
